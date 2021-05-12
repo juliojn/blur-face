@@ -1,0 +1,14 @@
+header h1 {
+	font: 100% arial, sans-serif;
+	margin-top: 10px;
+	display: block;
+	height: 80px;
+	}
+
+body {
+	font: 100% arial, sans-serif;
+	background-color: #DFDFDF;
+	text-align: center;
+	margin: 10px;
+	padding: 10px;
+}
